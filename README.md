@@ -1,7 +1,7 @@
 # Google OR Tools
 
 ## Overview
-- `Goolge Opeartional Research Tools`, used to solve problem of types below
+- `Goolge Opeartional Research Tools`, used to solve optimization problems like below:
   - `Constraint Programming`: A techniques for finding feasible solutions to a problem expressed as constraints.
   - `Linear and Mixed-Integer Programming`: Find the optimal value of a linear objective function, given a set of linear inequalities as constraints.
   - `Vehicle Routing`:  Identifying best vehicle routes given constraints.
